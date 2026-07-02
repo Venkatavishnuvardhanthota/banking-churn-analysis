@@ -1,0 +1,5 @@
+card_category,churned_count,total_count,attrition_rate
+Platinum,5,20,25.00
+Gold,21,116,18.10
+Blue,1519,9436,16.10
+Silver,82,555,14.77
