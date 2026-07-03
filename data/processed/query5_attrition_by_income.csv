@@ -1,0 +1,6 @@
+Income_Category,churned_count,total_count,attrition_rate
+"$120K +",126,727,17.33
+"Less than $40K",612,3561,17.19
+"$80K - $120K",242,1535,15.77
+"$40K - $60K",271,1790,15.14
+"$60K - $80K",189,1402,13.48
