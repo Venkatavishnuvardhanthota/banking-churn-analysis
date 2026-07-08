@@ -1,14 +1,7 @@
-Contacts_Count_12_mon,Attrition_Flag,customer_count
-0,"Attrited Customer",7
-0,"Existing Customer",392
-1,"Attrited Customer",108
-1,"Existing Customer",1391
-2,"Attrited Customer",403
-2,"Existing Customer",2824
-3,"Attrited Customer",681
-3,"Existing Customer",2699
-4,"Attrited Customer",315
-4,"Existing Customer",1077
-5,"Attrited Customer",59
-5,"Existing Customer",117
-6,"Attrited Customer",54
+contact_bucket,churned_count,total_count,attrition_rate
+0,7,399,1.75
+1,108,1499,7.20
+2,403,3227,12.49
+3,681,3380,20.15
+4,315,1392,22.63
+5+,113,230,49.13
