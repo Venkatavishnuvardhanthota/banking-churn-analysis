@@ -56,7 +56,7 @@ Credit Card Customers — BankChurners.csv, Kaggle (Sakshi Goyal), 10,127 rows, 
 ![At-Risk Profiles](<outputs/dashboard/Page3_At-Risk Profiles.png>)
 
 ## How to Run Locally
-1. Clone this repo: `git clone https://github.com/YourUsername/banking-churn-analysis.git`
+1. Clone this repo: `git clone https://github.com/Venkatavishnuvardhanthota/banking-churn-analysis`
 2. Create a virtual environment: `python -m venv venv` then `venv\Scripts\activate`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Download BankChurners.csv from Kaggle, place in `data/raw/`
