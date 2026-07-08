@@ -52,8 +52,8 @@ Credit Card Customers — BankChurners.csv, Kaggle (Sakshi Goyal), 10,127 rows, 
 
 ## Dashboard Screenshots
 ![Executive Overview](outputs/dashboard/page1_executive_overview.png)
-![Behavioural Signals](Page2_Behavioural_signals.png)
-![At-Risk Profiles](<Page3_At-Risk Profiles.png>)
+![Behavioural Signals](outputs/dashboard/Page2_Behavioural_signals.png)
+![At-Risk Profiles](<outputs/dashboard/Page3_At-Risk Profiles.png>)
 
 ## How to Run Locally
 1. Clone this repo: `git clone https://github.com/YourUsername/banking-churn-analysis.git`
