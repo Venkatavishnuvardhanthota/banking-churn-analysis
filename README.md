@@ -64,4 +64,5 @@ Credit Card Customers — BankChurners.csv, Kaggle (Sakshi Goyal), 10,127 rows, 
 6. Open `dashboard/banking_churn_analysis.pbix` in Power BI Desktop
 
 ## Contact
-Thota Venkata Vishnu Vardhan  — venkatavishnuvardhanthota@gmail.com
+Thota Venkata Vishnu Vardhan  — venkatavishnuvardhanthota@gmail.com 
+Last updated: July 2026 
